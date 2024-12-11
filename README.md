@@ -6,7 +6,8 @@ way by seeing visuals because visuals gives clear insights of data as compares t
 
 ## Report -
 
-![Samplesuperstore_report1](https://github.com/user-attachments/assets/0b9b0c3b-4210-49a1-9bb5-34943f77ca2b)
+![samo](https://github.com/user-attachments/assets/cabedb88-d9e4-4bee-8461-0af13323bd53)
+
 
 ![Samplesuperstore_report2](https://github.com/user-attachments/assets/db7cbec8-f085-49f7-a1bb-0685c286c19a)
 
